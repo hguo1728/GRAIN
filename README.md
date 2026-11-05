@@ -8,7 +8,7 @@ Official implementation of **GRAIN**, a dual-granularity framework for robust de
 ## Overview
 
 <p align="center">
-  <img src="assets/framework.png" alt="Overview of the GRAIN framework" width="850">
+  <img src="assets/GRAIN.png" alt="Overview of the GRAIN framework" width="850">
 </p>
 
 Continuous noisy labels pose two challenges: heterogeneous noise magnitudes across instances and distorted feature geometry. GRAIN addresses both through complementary mechanisms:
